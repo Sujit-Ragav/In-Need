@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="Hospitallogin">Hospital Login</string>
+    <string name="Hospitalregistration">Hospital registration</string>
+    <string name="Exit">Exit</string>
+    <string name="menu">Menu</string>
+
+    <string name="location">Location</string>
+    <string name="nav_open">Open Navigation Drawer</string>
+    <string name="nav_close">Close Navigation Drawer</string>
+    <string name="home">Home</string>
+    <string name="no_of_beds_available">No. of Beds available</string>
+    <string name="oxygen_availability">Oxygen availability</string>
+    <string name="no_of_covid_patients">No. of Covid patients</string>
+    <string name="ambulance_availabilyty">Ambulance availability(Yes/No)</string>
+    <string name="no_of_doctors">No. of Doctors</string>
+    <string name="update_details">Update Details</string>
+    <string name="enter_hospitalname">Enter Hospital name</string>
+    <string name="Hospital">Hospital</string>
+
+</resources>

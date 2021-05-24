@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <item android:title="@string/Hospital">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/login"
+                    android:icon="@drawable/hospital"
+                    android:title="@string/Hospitallogin" />
+                <item
+                    android:id="@+id/regis"
+                    android:icon="@drawable/hospitalregis"
+                    android:title="@string/Hospitalregistration" />
+            </group>
+        </menu>
+    </item>
+
+
+    <item android:title="@string/Exit">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/Home"
+                    android:icon="@drawable/home"
+                    android:title="@string/home" />
+                <item
+                    android:id="@+id/exit"
+                    android:icon="@drawable/exit"
+                    android:title="@string/Exit" />
+            </group>
+        </menu>
+    </item>
+
+
+</menu>
